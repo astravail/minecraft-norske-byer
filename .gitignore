@@ -1,0 +1,7 @@
+session.lock
+*.dat_old
+playerdata/
+stats/
+advancements/
+Thumbs.db
+desktop.ini
