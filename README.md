@@ -289,6 +289,135 @@ Sentrale Oslo, 7 × 7 km, fra Frogner og Majorstuen i vest til Ekeberg og Bryn i
 
 Koordinater fra et vanlig kart: kartet bruker UTM sone 33 (EUREF89), så `x = øst − 262 000` og `z = 6 649 500 − nord`. Havnivået ligger på y = 48.
 
+## Drammen
+
+Drammen, 7 × 7 km, fra Gulskogen i vest til Holmen og Drammensfjorden i øst, og fra Bragernesåsen i nord til Konnerud i sør. Terrenget kommer fra Kartverkets høydemodell (1 m oppløsning). Bygninger, veier, broer, parker og trær er laget fra OpenStreetMap, og byggehøyder og tretopper fra Kartverkets overflatemodell. Du starter på Bragernes torg.
+
+![Kart over Drammen](bilder/drammen.png)
+
+### Teleportering i Drammen
+
+<details>
+<summary>Vis alle 84 TP-kommandoer for Drammen</summary>
+
+**Sentrum – Bragernes**
+
+| Sted | Kommando |
+|---|---|
+| Bragernes torg (startpunkt) | `/tp @s 602 -47 -622` |
+| Bragernes kirke | `/tp @s 740 -33 -949` |
+| Drammen rådhus | `/tp @s 683 -45 -734` |
+| Drammens Teater | `/tp @s 389 -47 -746` |
+| Drammen park | `/tp @s 189 -45 -891` |
+| Ypsilon-parken | `/tp @s 115 -44 -974` |
+| Grev Wedels plass | `/tp @s 910 -47 -460` |
+| Elveplassen | `/tp @s -9 -49 -873` |
+| Bragernes strand | `/tp @s 979 -50 -257` |
+| Drammen Børs | `/tp @s 597 -49 -533` |
+| Kino City | `/tp @s 528 -47 -632` |
+| Magasinet | `/tp @s 660 -49 -485` |
+| Bragernes kolonihager | `/tp @s 1293 64 -1245` |
+| Bragernes gravlund | `/tp @s 482 -37 -1012` |
+| Fylkeshuset i Buskerud | `/tp @s -231 -38 -1202` |
+| Drammen Tinghus | `/tp @s 326 -46 -777` |
+
+**Sentrum – Strømsø og Grønland**
+
+| Sted | Kommando |
+|---|---|
+| Drammen stasjon | `/tp @s 527 -49 -214` |
+| Drammen busstasjon | `/tp @s 335 -49 -286` |
+| Strømsø torg | `/tp @s 488 -48 -135` |
+| Strømsø kirke | `/tp @s 769 -48 265` |
+| Strømsø Senter | `/tp @s 642 -49 464` |
+| Torgeir Vraas plass | `/tp @s 346 -49 -159` |
+| Gyldenløves plass | `/tp @s 911 -48 243` |
+| Tollboden | `/tp @s 1499 -49 614` |
+| Løvefontenen | `/tp @s 1437 -49 630` |
+| Drammensbiblioteket | `/tp @s 18 -49 -654` |
+| Papirbredden | `/tp @s 23 -49 -694` |
+| Universitetet i Sørøst-Norge (campus Drammen) | `/tp @s -35 -49 -671` |
+| Union Scene | `/tp @s -42 -49 -720` |
+| Union brygge | `/tp @s 115 -49 -626` |
+| Drammensbadet | `/tp @s 234 -48 270` |
+| Drammenshallen | `/tp @s 504 -49 352` |
+| Marienlyst stadion | `/tp @s 303 -44 472` |
+| Drammens Museum (Marienlyst gård) | `/tp @s 253 -48 -40` |
+| Museumsparken | `/tp @s 215 -49 -39` |
+| Strømsø kirkegård | `/tp @s 734 -48 311` |
+| Politihuset i Drammen | `/tp @s 153 -49 -538` |
+
+**Broer og elva**
+
+| Sted | Kommando |
+|---|---|
+| Ypsilon (gangbrua) | `/tp @s 101 -44 -736` |
+| Bybrua | `/tp @s 499 -49 -374` |
+| Strømsøbrua | `/tp @s 1153 -41 190` |
+| Øvre Sund bru | `/tp @s -154 -43 -849` |
+| Drammensbrua (E18) | `/tp @s 1487 -35 98` |
+| Holmenbrua | `/tp @s 1405 -44 -51` |
+| Landfalløybrua | `/tp @s -1636 -44 -1267` |
+| Åssiden elvepark | `/tp @s -2476 -51 -1602` |
+
+**Havna og fjorden**
+
+| Sted | Kommando |
+|---|---|
+| Drammen havn | `/tp @s 2474 -49 32` |
+| Holmen | `/tp @s 2047 -47 328` |
+| Fjordparken | `/tp @s 2388 -48 -215` |
+| Fjordplassen | `/tp @s 2368 -48 -260` |
+| Furuholmen fjordpark | `/tp @s 2235 -49 -50` |
+| Sota fjordpark | `/tp @s 3362 -50 1585` |
+| Muusøya båthavn | `/tp @s -1947 -50 -1472` |
+| Gyldenløve brygge | `/tp @s 1103 -49 307` |
+| Tangen kirke | `/tp @s 2206 -32 1032` |
+| Hotvet strand | `/tp @s -943 -50 -1182` |
+| Brakerøya stasjon | `/tp @s 2203 -47 -497` |
+| Drammen sykehus (Brakerøya) | `/tp @s 2243 -48 -303` |
+
+**Åsene og utsiktspunkter**
+
+| Sted | Kommando |
+|---|---|
+| Spiraltoppen | `/tp @s 472 162 -1608` |
+| Åspaviljongen | `/tp @s 638 79 -1350` |
+| Varden | `/tp @s 752 217 -1994` |
+| Bragernesåsen | `/tp @s 557 190 -1813` |
+| Gjerpenkollen hoppbakke | `/tp @s 1462 126 3455` |
+| Landfalltjern | `/tp @s -1448 280 -3498` |
+| Blektjern | `/tp @s -424 170 1545` |
+| Svensedammen | `/tp @s -2540 141 2733` |
+| Austad gård | `/tp @s 565 -10 921` |
+| Helleristningene i Skogerveien | `/tp @s 1202 12 1497` |
+
+**Bydeler og andre steder**
+
+| Sted | Kommando |
+|---|---|
+| Gulskogen senter | `/tp @s -2015 -42 -693` |
+| Gulskogen gård | `/tp @s -1547 -47 -1078` |
+| Gulskogen stasjon | `/tp @s -1859 -43 -811` |
+| Åssiden kirke | `/tp @s -2740 -42 -2039` |
+| Åssiden torg | `/tp @s -2576 -43 -1969` |
+| Fjell kirke | `/tp @s 1258 98 2408` |
+| Fjellsenteret | `/tp @s 1440 66 2297` |
+| Danvik skole | `/tp @s -109 -42 296` |
+| Konnerud senter | `/tp @s -2677 172 2043` |
+| Konnerud gamle kirke | `/tp @s -3160 196 1691` |
+| Konnerud stadion | `/tp @s -3037 142 2622` |
+| Strømsgodset kirke | `/tp @s -392 -37 -550` |
+| Drammen Camping | `/tp @s -3262 -49 -1632` |
+| Aass bryggeri | `/tp @s 1045 -49 -306` |
+| Drammen fengsel | `/tp @s 1024 -36 -667` |
+| Galterudhallen | `/tp @s 1186 111 2443` |
+| Åskollen idrettspark | `/tp @s 3473 2 2836` |
+
+</details>
+
+Koordinater fra et vanlig kart: kartet bruker UTM sone 33 (EUREF89), så `x = øst − 230 000` og `z = 6 632 000 − nord`. Havnivået ligger på y = −52, slik at Bragernesåsen (349 moh.) får plass under høydegrensen. Derfor er elva og fjorden bare rundt 8 blokker dype.
+
 ## Slik bruker du et kart
 
 1. Last ned repoet (Code → Download ZIP) eller klon det.
@@ -300,7 +429,7 @@ Koordinater fra et vanlig kart: kartet bruker UTM sone 33 (EUREF89), så `x = ø
 
 ## Slik teleporterer du
 
-Alle tre kartene har juks (cheats) slått på og starter i kreativ modus, så du kan bruke `/tp` med en gang.
+Alle kartene har juks (cheats) slått på og starter i kreativ modus, så du kan bruke `/tp` med en gang.
 
 1. Trykk `T` (eller `/`) for å åpne chatten.
 2. Lim inn en kommando fra listene over, for eksempel `/tp @s 19 65 359`, og trykk Enter.
