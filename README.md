@@ -14,6 +14,12 @@ Du starter på Askim torg, rett ved jernbanestasjonen.
 
 ![Kart over Halden](bilder/halden.png)
 
+## Oslo
+
+Sentrale Oslo, 7 × 7 km, fra Frogner og Majorstuen i vest til Ekeberg og Bryn i øst. Terrenget kommer fra Kartverkets høydemodell (1 m oppløsning). Bygninger, veier, parker og trær er laget fra OpenStreetMap, og byggehøyder og tretopper fra Kartverkets overflatemodell. Du starter i sentrum.
+
+![Kart over Oslo](bilder/oslo.png)
+
 ## Slik bruker du et kart
 
 1. Last ned repoet (Code → Download ZIP) eller klon det.
